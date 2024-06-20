@@ -1,0 +1,17 @@
+{
+    "notify": {
+        "webhook": "https://discord.com/api/webhooks/",
+        "success": true,
+        "failed": true
+    },
+    "black_listed": {
+        "guild_ids": [],
+        "channel_ids": [],
+        "user_ids": []
+    },
+    "tokens": {
+        "claim": "",
+        "watchers": [""],
+        "watchers_status": "online"
+    }
+}
